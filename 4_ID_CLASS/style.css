@@ -1,3 +1,14 @@
+#titulo-id{
+    color: rgb(48, 53, 152);
+
+}
+
+
+.cor-azul{
+    color: rgb(101, 164, 240);
+}
+
+
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(49, 55, 175);
@@ -12,5 +23,14 @@ p {
 
 
 .fundo-azul {
-    background:rgb(85, 133, 255);
+    background:rgb(183, 203, 255);
+}
+
+.fonte-grande {
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background:lightskyblue;
+    color: rgb(0, 0, 0);
 }
